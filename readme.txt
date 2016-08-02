@@ -7,4 +7,4 @@ Creating a new branch is quick.
 
 Test modified, modified in master now.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
