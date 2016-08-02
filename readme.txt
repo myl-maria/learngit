@@ -10,4 +10,7 @@ Test modified, modified in master now.
 Creating a new branch is quick AND simple.
 
 Add merge.
+
 fix bug-001
+
+Try stash.
